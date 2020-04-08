@@ -26,7 +26,7 @@ namespace ArraysAndLists
             
 
             //Use this method to print out your numbers from arrays or lists
-            
+            //NumberPrinter();
 
             //Reverse the contents of the array and then print the array out to the console.
             //Try for 2 different ways
@@ -36,7 +36,8 @@ namespace ArraysAndLists
             //Create a method that will set numbers that are a multiple of 3 to zero then print to the console all numbers
 
 
-            //Sort the array in order now            
+            //Sort the array in order now
+            /*     Hint: Array._____()     */
 
             Console.WriteLine("\n************End Arrays*************** \n");
             #endregion
@@ -99,13 +100,13 @@ namespace ArraysAndLists
             throw new NotImplementedException();
         }
 
-        private static void Populater(int[] numbers)
+        private static void Populater(int[] numbersArray)
         {
             Random rng = new Random();
             throw new NotImplementedException();
         }       
 
-        private static void ReverseArray(int[] array)
+        private static void ReverseArray(int[] numbersArray)
         {
             throw new NotImplementedException();
         }
