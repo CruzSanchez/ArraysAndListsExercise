@@ -49,6 +49,7 @@ namespace ArraysAndLists
             Console.WriteLine("-------------------");
 
             //Sort the array in order now
+            /*      Hint: Array.____()      */
             Console.WriteLine("Sorted numbers:");
             Array.Sort(numbers);
             NumberPrinter(numbers);
