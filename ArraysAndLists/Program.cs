@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ArraysAndLists
+namespace CollectionsMasterConsoleUI
 {
     class Program
     {
@@ -147,7 +147,7 @@ namespace ArraysAndLists
 
             for (int i = 0; i < 50; i++)
             {
-                int rando = rng.Next(50);
+                int rando = rng.Next(51);
                 numberList.Add(rando);
             }
         }
